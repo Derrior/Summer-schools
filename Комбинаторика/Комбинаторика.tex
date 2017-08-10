@@ -5,7 +5,7 @@
 \usepackage{/home/z/mydefines}
 
 \geometry{
-    a5paper,
+    landscape,a4paper,
     left=0.5cm,
     right=1cm,
     top=1.5cm,
@@ -17,9 +17,12 @@
 \setlength{\headheight}{15.6pt}
 \pagestyle{fancy}
 \fancyfoot{}
-\lhead{Август 2017 \hfill Алые Паруса \hfill 7-8 класс}
+\lhead{Август 2017 \hfill \hfill Алые Паруса \hfill \hfill 7-8 класс \hfill Август 2017 \hfill \hfill Алые Паруса \hfill \hfill 7-8 класс}
 \begin{document}
+\begin{minipage}[t]{0.5\textwidth}
 \input{page1.tex}
-\newpage
+\end{minipage}
+\begin{minipage}[t]{0.5 \textwidth}
 \input{page2.tex}
+\end{minipage}
 \end{document}

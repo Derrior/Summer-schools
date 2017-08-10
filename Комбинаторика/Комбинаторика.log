@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.21)  10 AUG 2017 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.21)  10 AUG 2017 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1619,15 +1619,15 @@ LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a5paper
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(14.22636pt, 378.42168pt, 28.45274pt)
+* modes: landscape 
+* h-part:(L,W,R)=(14.22636pt, 802.36774pt, 28.45274pt)
 * v-part:(T,H,B)=(42.67912pt, 540.60239pt, 14.22636pt)
-* \paperwidth=421.10078pt
+* \paperwidth=845.04684pt
 * \paperheight=597.50787pt
-* \textwidth=378.42168pt
+* \textwidth=802.36774pt
 * \textheight=540.60239pt
 * \oddsidemargin=-58.04362pt
 * \evensidemargin=-58.04362pt
@@ -1657,117 +1657,89 @@ able
 e 1.
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+LaTeX Font Info:    Try loading font information for U+msb on input line 7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (8.95712pt too wide) in paragraph at lines 7--9
-\T2B/Tempora-TLF/m/n/10.95 каж-дую циф-ру не бо-лее од-но-го ра-за? Трјх-знач-н
-ых? Трјх-знач-ных, при усло-вии,
- []
-
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 10.
+(Font)              scaled to size 14.4pt on input line 11.
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 10.
+(Font)              scaled to size 10.95pt on input line 11.
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 14.
+(Font)              scaled to size 10.0pt on input line 15.
+LaTeX Font Info:    Try loading font information for T2B+cmtt on input line 28.
 
-Overfull \hbox (6.3949pt too wide) in paragraph at lines 23--25
-[]\T2B/Tempora-TLF/m/n/10.95 Октаэдр - пра-виль-ный вось-ми-гран-ник, пред-став
--ля-ю-щий из се-бя две скле-ен-ные
- []
-
-LaTeX Font Info:    Try loading font information for T2B+cmtt on input line 27.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmtt.fd
 File: t2bcmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/sl' in size <10.95> not avail
-able
-(Font)              Font shape `T2B/Tempora-TLF/m/it' tried instead on input li
-ne 23.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 23.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-] (./page2.tex
-Overfull \hbox (12.78522pt too wide) in paragraph at lines 3--5
-\T2B/Tempora-TLF/m/n/10.95 воз-мож-но, по-лу-чить фи-ло-сов-ский ка-мень? Неваж
--но, в ка-ком по-ряд-ке до-бав-лять
- []
-
-
-Overfull \hbox (1.0728pt too wide) in paragraph at lines 9--11
-\T2B/Tempora-TLF/m/n/10.95 Иногда это на-зы-ва-ют чис-ла-ми со-че-та-ний. Аль-т
-ер-на-тив-ное обо-зна-че-ние $[]$. 
- []
-
-
-Overfull \hbox (2.29362pt too wide) in paragraph at lines 12--14
-[]\T2B/Tempora-TLF/m/n/10.95 В сле-ду-ю-щих 3 за-да-чах ре-ко-мен-ду-ет-ся поль
--зо-вать-ся смыс-лом $\OML/cmm/m/it/10.95 C[]$\T2B/Tempora-TLF/m/n/10.95 , опи-
-сан-ным
- []
-
-
-Overfull \hbox (3.20972pt too wide) in paragraph at lines 22--24
-[]\T2B/Tempora-TLF/m/n/10.95 Чему ра-вен ко-эф-фи-ци-ент при $\OML/cmm/m/it/10.
-95 a[]$ \T2B/Tempora-TLF/m/n/10.95 в вы-ра-же-нии $\OT1/cmr/m/n/10.95 (1 + \OML
-/cmm/m/it/10.95 a\OT1/cmr/m/n/10.95 )[]$\T2B/Tempora-TLF/m/n/10.95 ? По-лу-чен-
-ный ре-зуль-тат
+)) (./page2.tex
+Underfull \hbox (badness 1448) in paragraph at lines 28--31
+[]\T2B/Tempora-TLF/m/n/10.95 Лягушка хо-чет до-брать-ся из верх-не-го ря-да в
  []
 
 Package epstopdf Info: Source file: <images/K2-8.eps>
-(epstopdf)                    date: 2017-07-22 11:20:37
+(epstopdf)                    date: 2017-08-10 17:25:25
 (epstopdf)                    size: 584755 bytes
 (epstopdf)             Output file: <images/K2-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-22 11:21:17
+(epstopdf)                    date: 2017-08-10 17:25:25
 (epstopdf)                    size: 7751 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/K2-8-eps-converted-
 to.pdf images/K2-8.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
-<images/K2-8-eps-converted-to.pdf, id=12, 296.10625pt x 301.125pt>
+<images/K2-8-eps-converted-to.pdf, id=1, 296.10625pt x 301.125pt>
 File: images/K2-8-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/K2-8-eps-converted-to.pdf>
 Package pdftex.def Info: images/K2-8-eps-converted-to.pdf used on input line 33
 .
-(pdftex.def)             Requested size: 113.52765pt x 115.45332pt.
-) [2 <./images/K2-8-eps-converted-to.pdf>] (./РљРѕРјР±РёРЅР°С‚РѕСЂРёРєР°.aux) )
- 
+(pdftex.def)             Requested size: 120.35638pt x 122.39604pt.
+)
+Overfull \hbox (18.64249pt too wide) in paragraph at lines 22--28
+[][] [] 
+ []
+
+LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/sl' in size <10.95> not avail
+able
+(Font)              Font shape `T2B/Tempora-TLF/m/it' tried instead on input li
+ne 28.
+LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 28.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./images/K2-8-eps-converted-to.pdf>] (./РљРѕРјР±РёРЅР°С‚РѕСЂРёРєР°.aux) ) 
 Here is how much of TeX's memory you used:
- 8397 strings out of 493949
- 113606 string characters out of 6163827
- 217826 words of memory out of 5000000
- 11618 multiletter control sequences out of 15000+600000
+ 8399 strings out of 493949
+ 113625 string characters out of 6163827
+ 220826 words of memory out of 5000000
+ 11620 multiletter control sequences out of 15000+600000
  26782 words of font info for 53 fonts, out of 8000000 for 9000
  702 hyphenation exceptions out of 8191
- 39i,11n,68p,329b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/z/.texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbtt1095.600pk>{/usr/share/texli
-ve/texmf-dist/fonts/enc/dvips/tempora/t2b-tempora.enc}</usr/share/texlive/texmf
--dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on РљРѕРјР±РёРЅР°С‚РѕСЂРёРєР°.pdf (2 pages, 163563 bytes).
+ 39i,11n,68p,329b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </h
+ome/z/.texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbtt1095.600pk>{/usr/share/texlive/t
+exmf-dist/fonts/enc/dvips/tempora/t2b-tempora.enc}</usr/share/texlive/texmf-dis
+t/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/tempora/Tempora-Italic.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/tempora/Tempora-Regular.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on РљРѕРјР±РёРЅР°С‚РѕСЂРёРєР°.pdf (1 page, 162789 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
