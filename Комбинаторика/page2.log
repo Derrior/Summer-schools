@@ -1,0 +1,29 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.21)  21 JUL 2017 18:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**page2.tex
+(./page2.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 21 language(s) loaded.
+! Undefined control sequence.
+<argument> \bf 
+               Комбинаторика 2
+l.1 \centerline{\bf Комбинаторика 2}
+                                                 
+? x
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 493949
+ 128 string characters out of 6163827
+ 49195 words of memory out of 5000000
+ 3539 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 702 hyphenation exceptions out of 8191
+ 5i,0n,1p,59b,9s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

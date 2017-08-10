@@ -1,0 +1,9 @@
+cd Вступительная
+compile Вступительная.tex
+cd ../Числа
+compile Числа.tex
+cd ../Комбинаторика
+compile Комбинаторика.tex
+compile Комбинаторика3.tex
+cd ../Графы
+compile Графы.tex
