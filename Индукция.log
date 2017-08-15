@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.21)  13 AUG 2017 09:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.7.21)  15 AUG 2017 11:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**–ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.tex
-(./–ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.tex
+**–ò–Ω–¥—É–∫—Ü–∏—è/–ò–Ω–¥—É–∫—Ü–∏—è.tex
+(./–ò–Ω–¥—É–∫—Ü–∏—è/–ò–Ω–¥—É–∫—Ü–∏—è.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 21 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -22,30 +22,6 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
-)
-Package graphics Info: Driver file: dvips.def on input line 95.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
-File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
-))
-\Gin@req@height=\dimen103
-\Gin@req@width=\dimen104
 )
 (/home/z/mydefines.sty
 
@@ -63,12 +39,12 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks15
-\ex@=\dimen105
+\@emptytoks=\toks14
+\ex@=\dimen103
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen106
+\pmbraise@=\dimen104
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
@@ -85,7 +61,7 @@ LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
-\big@size=\dimen107
+\big@size=\dimen105
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count92
@@ -93,21 +69,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \dotsspace@=\muskip10
 \c@parentequation=\count94
 \dspbrk@lvl=\count95
-\tag@help=\toks16
+\tag@help=\toks15
 \row@=\count96
 \column@=\count97
 \maxfields@=\count98
-\andhelp@=\toks17
-\eqnshift@=\dimen108
-\alignsep@=\dimen109
-\tagshift@=\dimen110
-\tagwidth@=\dimen111
-\totwidth@=\dimen112
-\lineht@=\dimen113
-\@envbody=\toks18
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
 \multlinegap=\skip44
 \multlinetaggap=\skip45
-\mathdisplay@stack=\toks19
+\mathdisplay@stack=\toks18
 LaTeX Info: Redefining \[ on input line 2735.
 LaTeX Info: Redefining \] on input line 2736.
 )
@@ -123,8 +99,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
@@ -1349,9 +1325,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks22
-\XKV@tempa@toks=\toks23
-)
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
 \XKV@depth=\count99
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
@@ -1369,7 +1346,7 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/02/24 3.9q Babel common definitions
 \babel@savecnt=\count100
-\U@D=\dimen114
+\U@D=\dimen112
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
@@ -1399,6 +1376,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gread@gobject=\count101
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
@@ -1427,20 +1405,21 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@cnth=\count102
 \Gm@cntv=\count103
 \c@Gm@tempcnt=\count104
-\Gm@bindingoffset=\dimen115
-\Gm@wd@mp=\dimen116
-\Gm@odd@mp=\dimen117
-\Gm@even@mp=\dimen118
-\Gm@layoutwidth=\dimen119
-\Gm@layoutheight=\dimen120
-\Gm@layouthoffset=\dimen121
-\Gm@layoutvoffset=\dimen122
-\Gm@dimlist=\toks24
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks23
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks24
 \labelindent=\skip46
-\enit@outerparindent=\dimen123
+\enit@outerparindent=\dimen121
 \enit@toks=\toks25
 \enit@inbox=\box28
 \enitdp@description=\count105
@@ -1452,14 +1431,14 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \lst@gtempboxa=\box29
 \lst@token=\toks26
 \lst@length=\count108
-\lst@currlwidth=\dimen124
+\lst@currlwidth=\dimen122
 \lst@column=\count109
 \lst@pos=\count110
-\lst@lostspace=\dimen125
-\lst@width=\dimen126
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
 \lst@newlines=\count111
 \lst@lineno=\count112
-\lst@maxwidth=\dimen127
+\lst@maxwidth=\dimen125
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
@@ -1489,128 +1468,80 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 \f@ncyO@olf=\skip54
 \f@ncyO@orf=\skip55
 )
-(./–ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.aux
-LaTeX Font Info:    Try loading font information for T2B+cmr on input line 3.
+No file –ò–Ω–¥—É–∫—Ü–∏—è.aux.
+\openout1 = `–ò–Ω–¥—É–∫—Ü–∏—è.aux'.
 
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
-File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-\openout1 = `–ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for OT2+cmr on input line 21.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for OT2+cmr on input line 18.
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/ot2cmr.fd
 File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for T2C+cmr on input line 21.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2C/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T2C+cmr on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2ccmr.fd
 File: t2ccmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for T2B+cmr on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmr.fd
+File: t2bcmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Try loading font information for T1+Tempora-TLF on input li
-ne 21.
+ne 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/T1Tempora-TLF.fd
 File: T1Tempora-TLF.fd 2016/02/02 (autoinst) Font definitions for T1/Tempora-TL
 F.
 )
 LaTeX Font Info:    Font shape `T1/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 21.
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-34.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+(Font)              scaled to size 12.0pt on input line 18.
 \c@mv@tabular=\count115
 \c@mv@boldtabular=\count116
 LaTeX Font Info:    Try loading font information for T2B+Tempora-TLF on input l
-ine 21.
+ine 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/tempora/t2btempora-tlf.fd
 File: t2btempora-tlf.fd 2015/09/13 Font definitions for T2B/Tempora-TLF.
 )
 LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 21.
+(Font)              scaled to size 12.0pt on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
-\scratchdimen=\dimen128
+\scratchdimen=\dimen126
 \scratchbox=\box31
 \nofMPsegments=\count118
 \nofMParguments=\count119
 \everyMPshowfont=\toks27
 \MPscratchCnt=\count120
-\MPscratchDim=\dimen129
+\MPscratchDim=\dimen127
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks28
@@ -1622,24 +1553,24 @@ LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: landscape 
-* h-part:(L,W,R)=(14.22636pt, 802.36774pt, 28.45274pt)
-* v-part:(T,H,B)=(42.67912pt, 540.60239pt, 14.22636pt)
-* \paperwidth=845.04684pt
-* \paperheight=597.50787pt
-* \textwidth=802.36774pt
-* \textheight=540.60239pt
+* modes: 
+* h-part:(L,W,R)=(14.22636pt, 554.82877pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 788.14136pt, 14.22636pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=554.82877pt
+* \textheight=788.14136pt
 * \oddsidemargin=-58.04362pt
 * \evensidemargin=-58.04362pt
 * \topmargin=-66.59087pt
 * \headheight=15.6pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1650,109 +1581,58 @@ LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count123
-(./page2.tex
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/bx/n' in size <10.95> not avail
-able
-(Font)              Font shape `T2B/Tempora-TLF/b/n' tried instead on input lin
-e 1.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 6.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 9.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 9.
+! LaTeX Error: File `page1.tex' not found.
 
-Underfull \hbox (badness 1448) in paragraph at lines 28--31
-[]\T2B/Tempora-TLF/m/n/10.95 Àˇ„Û¯Í‡ ıÓ-˜ÂÚ ‰Ó-·‡Ú¸-Òˇ ËÁ ‚Âı-ÌÂ-„Ó ˇ-‰‡ ‚
- []
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-Package epstopdf Info: Source file: <images/K2-8.eps>
-(epstopdf)                    date: 2017-08-10 17:25:25
-(epstopdf)                    size: 584755 bytes
-(epstopdf)             Output file: <images/K2-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-10 17:25:25
-(epstopdf)                    size: 7751 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/K2-8-eps-converted-
-to.pdf images/K2-8.eps>
-(epstopdf)             \includegraphics on input line 33.
-Package epstopdf Info: Output file is already uptodate.
-<images/K2-8-eps-converted-to.pdf, id=1, 296.10625pt x 301.125pt>
-File: images/K2-8-eps-converted-to.pdf Graphic file (type pdf)
+Enter file name: 
 
-<use images/K2-8-eps-converted-to.pdf>
-Package pdftex.def Info: images/K2-8-eps-converted-to.pdf used on input line 33
-.
-(pdftex.def)             Requested size: 120.35638pt x 122.39604pt.
-) (./page2.tex
-Underfull \hbox (badness 1448) in paragraph at lines 28--31
-[]\T2B/Tempora-TLF/m/n/10.95 Àˇ„Û¯Í‡ ıÓ-˜ÂÚ ‰Ó-·‡Ú¸-Òˇ ËÁ ‚Âı-ÌÂ-„Ó ˇ-‰‡ ‚
- []
+! LaTeX Error: File `page2.tex' not found.
 
-Package epstopdf Info: Source file: <images/K2-8.eps>
-(epstopdf)                    date: 2017-08-10 17:25:25
-(epstopdf)                    size: 584755 bytes
-(epstopdf)             Output file: <images/K2-8-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-08-10 17:25:25
-(epstopdf)                    size: 7751 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/K2-8-eps-converted-
-to.pdf images/K2-8.eps>
-(epstopdf)             \includegraphics on input line 33.
-Package epstopdf Info: Output file is already uptodate.
-File: images/K2-8-eps-converted-to.pdf Graphic file (type pdf)
-<use images/K2-8-eps-converted-to.pdf>
-Package pdftex.def Info: images/K2-8-eps-converted-to.pdf used on input line 33
-.
-(pdftex.def)             Requested size: 120.35638pt x 122.39604pt.
-)
-Overfull \hbox (18.64249pt too wide) in paragraph at lines 22--28
-[][] [] 
- []
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/sl' in size <10.95> not avail
-able
-(Font)              Font shape `T2B/Tempora-TLF/m/it' tried instead on input li
-ne 28.
-LaTeX Font Info:    Font shape `T2B/Tempora-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 28.
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Enter file name: 
 
- <./images/K2-8-eps-converted-to.pdf>] (./–ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.aux) ) 
+! LaTeX Error: File `play.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Interruption.
+<to be read again> 
+                   }
+l.23 \input{play.tex}
+                     ^^M
+? 
+(./–ò–Ω–¥—É–∫—Ü–∏—è.aux
+! Interruption.
+l.3692005 
+          
+? 
+! Interruption.
+l.4960987 
+          
+? 
+! Interruption.
+l.5641120 
+          
+? x
+ 
 Here is how much of TeX's memory you used:
- 8377 strings out of 493949
- 112977 string characters out of 6163827
- 221826 words of memory out of 5000000
- 11603 multiletter control sequences out of 15000+600000
- 26473 words of font info for 52 fonts, out of 8000000 for 9000
+ 7764 strings out of 493949
+ 102677 string characters out of 6163827
+ 208805 words of memory out of 5000000
+ 11062 multiletter control sequences out of 15000+600000
+ 11507 words of font info for 19 fonts, out of 8000000 for 9000
  702 hyphenation exceptions out of 8191
- 39i,11n,68p,320b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/us
-r/share/texlive/texmf-dist/fonts/enc/dvips/tempora/t2b-tempora.enc}</usr/share/
-texlive/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on –ö–æ–º–±–∏–Ω–∞—Ç–æ—Ä–∏–∫–∞.pdf (1 page, 133899 bytes).
+ 39i,1n,68p,257b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 0 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
